@@ -317,3 +317,44 @@ footer{
 }
 
 
+
+body .quotes{
+    text-align: center;
+    background-color: whitesmoke;
+    color: #333;
+}
+
+.quotes h1 {
+    
+    font-size: 30px;
+    font-family:sans-serif;
+    font-style: italic;
+    color: #333;
+}
+
+.quotes button {
+    width: 250px;
+    height: 80px;
+    background-color:#333;
+    color: white;
+}
+
+.quotes p{
+    font-size: 20px;
+    font-family:sans-serif;
+    font-style: italic;
+    color: #333;
+}
+
+.quotes button:hover{
+    background-color: lightblue;
+}
+
+.quotes img{
+    width: 400px;
+    height: 250px;
+    float: right;
+    margin: 30px 100px 0px 0px;
+}
+
+
